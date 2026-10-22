@@ -16,6 +16,8 @@ El proyecto forma parte del curso de Data Analytics de Coderhouse y utiliza la b
 ## Herramientas utilizadas
 
 - **Microsoft SQL Server:** motor de base de datos.
+- **SQL Server Management Studio (SSMS):** entorno para ejecutar y administrar consultas SQL.
+- **T-SQL:** lenguaje utilizado para crear consultas y relacionar tablas.
 - **GitHub:** plataforma para guardar y documentar el código del proyecto.
 - **Power BI:** herramienta complementaria para preparar y visualizar información, cuando corresponda a los archivos incluidos en el proyecto.
 
@@ -27,8 +29,6 @@ El proyecto trabaja con las siguientes tablas principales:
 - `clientes`: información de los clientes.
 - `productos`: información de los productos comercializados.
 - `categorias`: clasificación de los productos.
-- `territorios`: información sobre donde ocurren las ventas.
-- 
 
 Las relaciones entre las tablas permiten combinar datos para obtener información comercial más completa.
 
